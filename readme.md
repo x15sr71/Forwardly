@@ -1,5 +1,4 @@
-Forwardly 📬
-Forwardly is a customizable email forwarding service that empowers users to receive emails at a personalized domain (e.g., user@forwardly.com) and have them securely and seamlessly forwarded to their preferred inbox. This project leverages AWS SES and Lambda for robust, scalable email forwarding, designed to provide a straightforward solution for email management without the hassle of managing a full-fledged mail server.
+Forwardly 📬 is a customizable email forwarding service that empowers users to receive emails at a personalized domain (e.g., user@forwardly.com) and have them securely and seamlessly forwarded to their preferred inbox. This project leverages AWS SES and Lambda for robust, scalable email forwarding, designed to provide a straightforward solution for email management without the hassle of managing a full-fledged mail server.
 
 Whether you're building out your portfolio or need a reliable email forwarding solution for personal use, Forwardly delivers with ease and security.
 
