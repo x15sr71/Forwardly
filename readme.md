@@ -9,5 +9,5 @@ Whether you're building out your portfolio or need a reliable email forwarding s
 - Scalable Architecture with AWS Lambda: A serverless backend for low-latency, cost-effective forwarding.
 - Domain Spoofing Protection: Throttling and spam detection measures prevent misuse and keep your domain safe.
 - Easy Configuration: Quickly set up forwarding rules and map custom domains using environment variables and AWS SES.
-- High Customizability: Modify forwarding rules, handling scripts, and security settings to meet personal or organizational needs.
+- High Customizability: Modify forwarding rules, handling scripts, and security settings to meet your personal or organizational needs.
 
